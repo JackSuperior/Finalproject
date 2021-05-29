@@ -1,9 +1,7 @@
 # Final Project
 
-# Bored Arena Board
+# Shape Generator
 By Jack Mayville
 
 Description:
-A game where you play as a little figure on a 10x10 chess board, you have to navigate around the board and attack the enemies from behind in order to clear out the board.
-The board's environment will alter and the enemies will get smarter and quicker between each level.
-How many boards will you be able to clear?
+A geometry visualizer made in C++, taking user input and visualizing it via the console (C++ has no built in GUI displayer, so I have to use the console as a display.)
