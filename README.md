@@ -5,6 +5,7 @@ By Jack Mayville
 
 Description:
 A geometry visualizer made in C++, taking user input and visualizing it via the console (C++ has no built in GUI displayer, so I have to use the console as a display.)
+Download current release [here:](https://github.com/JackSuperior/Finalproject/blob/gh-pages/src/shapegenRelease2.zip)
 
 ![Shapegen](https://github.com/JackSuperior/Finalproject/blob/gh-pages/src/shapeupd.PNG)
 
