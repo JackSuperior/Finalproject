@@ -18,3 +18,5 @@ A geometry visualizer made in C++, taking user input and visualizing it via the 
 *New math used for certain dimensions.*
 
 *Code runs a little faster now.*
+
+*Github page and preview photo is now up to date.*
