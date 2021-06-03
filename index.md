@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Final Project
 
-You can use the [editor on GitHub](https://github.com/JackSuperior/Finalproject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Shape Generator
+By Jack Mayville
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Description:
+A geometry visualizer made in C++, taking user input and visualizing it via the console (C++ has no built in GUI displayer, so I have to use the console as a display.)
 
-### Markdown
+Download current release [here:](https://github.com/JackSuperior/Finalproject/blob/gh-pages/src/shapegenRelease2.zip)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Shapegen](https://github.com/JackSuperior/Finalproject/blob/gh-pages/src/shapeupd.PNG)
 
-```markdown
-Syntax highlighted code block
+![Shapegen](https://github.com/JackSuperior/Finalproject/blob/gh-pages/src/rect.PNG)
 
-# Header 1
-## Header 2
-### Header 3
+**Latest Changes:**
+*Updated geometry visualization method.*
 
-- Bulleted
-- List
+*Made rectangle option functional with custom width and height.*
 
-1. Numbered
-2. List
+*New math used for certain dimensions.*
 
-**Bold** and _Italic_ and `Code` text
+*Code runs a little faster now.*
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JackSuperior/Finalproject/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*Github page and preview photo is now up to date.*
