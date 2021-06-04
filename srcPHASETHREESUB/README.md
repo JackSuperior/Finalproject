@@ -12,9 +12,9 @@ Download current (last) release [here:](https://github.com/JackSuperior/Finalpro
 
 **Latest Changes:**
 
-*Triangle function has been added, with both a right triangle and equilateral triangle option within.
+*Triangle function has been added, with both a right triangle and equilateral triangle option within.*
 
-*Cleaned up unused lines of code and fixed bugs.
+*Cleaned up unused lines of code and fixed bugs.*
 
 *Added message for going over listed number options.*
 
