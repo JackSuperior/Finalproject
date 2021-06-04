@@ -10,8 +10,6 @@ Download current (last) release [here:](https://github.com/JackSuperior/Finalpro
 
 ![Shapegen](https://github.com/JackSuperior/Finalproject/blob/gh-pages/src/shapeupd.PNG)
 
-![Shapegen](https://github.com/JackSuperior/Finalproject/blob/gh-pages/src/rect.PNG)
-
 **Latest Changes:**
 
 *Triangle function has been added, with both a right triangle and equilateral triangle option within.
